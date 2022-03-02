@@ -1,5 +1,7 @@
 # similarity_checker
-A Jupyter notebook to find collusion in student submitted Jupyter notebooks. A cheating detector.
+&copy; Jeremy Ellman 28/02/2022   Published under the MIT license
+
+A Jupyter notebook to find collusion in student submitted Jupyter notebooks. A cheating detector. 
 
 Collusion is when students who should be working individually work together and submit identical (or visually identical) work. Collusion is easy to spot when two source files are seen side by side, but is often missed when large classes have multiple markers, or take days to mark.
 This is an issue with Jupyter Notebooks as Python source code can be mixed with Markdown free text that disguises the collusion.
