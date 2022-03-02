@@ -11,3 +11,5 @@ The notebook uses Jupyter to convert the source files to Python with Markdown as
 All file groups that exceed some similarity theshold (initially 0.8) are then identified and written to a summary csv file (or reported inline).
 
 Students working with given examples, or on the same problem will often have code in common (e.g. database connection strings). Consequently the instructor needs to determine whether academic misconduct (cheating) really took place. The similarity checker just guides you where to look.
+
+The similarity checker processes ~140 files in ~20s on a modest PC.
