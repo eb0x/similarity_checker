@@ -1,5 +1,5 @@
 # similarity_checker
-&copy; Jeremy Ellman 28/02/2022   Published under the MIT license
+&copy; Jeremy Ellman 28/02/2022   Published under the <a href="https://github.com/eb0x/similarity_checker/blob/main/LICENSE">MIT license</a>.
 
 A Jupyter notebook to find collusion in student submitted Jupyter notebooks. A cheating detector. 
 
